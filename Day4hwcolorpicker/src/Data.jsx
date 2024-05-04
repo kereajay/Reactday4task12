@@ -1,0 +1,44 @@
+export let  Data=[
+    {
+        colorcode:"#FF6663",
+        colorname:"Pink"
+
+    },
+    {
+        colorcode:"#333333",
+        colorname:"Gray",
+    },
+    {
+        colorcode:"#000000",
+        colorname:"Black",
+    },
+    {
+        colorcode:"#38BB14",
+        colorname:"Green",
+    },
+    {
+        colorcode:"#C90B0B",
+        colorname:"Red",
+    },
+    {
+        colorcode:"#FF8000",
+        colorname:"Orange",
+    },
+    {
+        colorcode:"#FFF500",
+        colorname:"Yellow",
+    },
+    {
+        colorcode:"#CCCCCC",
+        colorname:"LightGray",
+    },
+    {
+        colorcode:"#7E41A2",
+        colorname:"Purple",
+    },
+    {
+        colorcode:"#C14911",
+        colorname:"Brown",
+    },
+    
+]
